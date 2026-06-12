@@ -102,7 +102,7 @@ The `customer_churn_analysis.sql` file contains:
 ## 🚀 How to Run the Notebook
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+git clone https://github.com/Manish-9770/customer-churn-prediction.git
 cd customer-churn-prediction
 
 # 2. Install dependencies
